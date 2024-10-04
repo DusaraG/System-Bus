@@ -1,0 +1,91 @@
+# Quartus-generated directories and files
+db/
+incremental_db/
+output_files/
+.qsf.done
+.qsf.lock
+*.done
+*.summary
+*.rpt
+*.sld
+*.pof
+*.sof
+*.smsg
+*.jdi
+*.pin
+*.wcfg
+*.spd
+*.log
+*.sld
+*.chg
+*.eqn
+*.pmsf
+*.srr
+*.cdf
+*.rbf
+*.sta
+*.qws
+
+# Quartus II auto-generated files
+*.bak
+*.rpt
+*.vho
+*.sopcinfo
+*.jtag
+*.hps
+*.jdi
+
+# Quartus Prime Simulation files
+simulation/modelsim/*.wlf
+simulation/modelsim/*.mti
+simulation/modelsim/compile.do
+simulation/modelsim/*.sdo
+simulation/modelsim/transcript
+simulation/modelsim/work/
+
+# Quartus Prime Synthesis netlists
+*.qxp
+*.qpf
+*.qsf
+*.bdf
+*.bsf
+*.gdf
+*.pin
+*.sof
+*.sdf
+
+# Quartus backup files
+*.bak
+*.bkp
+
+# Quartus temporary/lock files
+*~
+*.temp
+*.tcl.lock
+
+# Quartus-generated testbench files
+*.vcd
+*.wlf
+*.vcd
+
+# Quartus waveforms
+*.vwf
+
+# Quartus Prime IP-related files
+*.qip
+*.ipx
+*.qsys
+*.sip
+*.ip
+*.qsys_edit
+.ipconfig
+
+# Intel FPGA-related caches
+__pycache__/
+
+# Ignore Quartus IP components and simulation library folders
+*.sopcinfo
+synthesis/
+simulation/
+altera_simlib/
+modelsim.ini
